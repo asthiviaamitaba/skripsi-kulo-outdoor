@@ -1,0 +1,399 @@
+Tanggal,Nama Barang,Jumlah
+2024-01-01 0:00:00,"Tenda, Gas Rent",2
+2024-01-03 0:00:00,"Tenda, Gas Tukar",2
+2024-01-03 0:00:00,"Tenda, Matras, Kompor, Lampu, Kursi",9
+2024-01-05 0:00:00,"Sarung Tangan, Headlamp, Cover Bag, Sepatu",4
+2024-01-07 0:00:00,"Tenda, Gas Rent",2
+2024-01-09 0:00:00,Senter Kepala Luby,4
+2024-01-11 0:00:00,"Kursi, Lampu, Tali, Cooking Set",8
+2024-01-13 0:00:00,"Kompor, Gas Rent",7
+2024-01-13 0:00:00,"Tenda, Kompor, Lampu, Gas Rent",5
+2024-01-15 0:00:00,SB,1
+2024-01-17 0:00:00,"Tenda, Nesting, Meja, Matras, Senter, Kursi, Kompor, Gas Rent, Pasak",17
+2024-01-18 0:00:00,"Tenda, Sleeping Pad, Tiang Flysheet, Matras, Flysheet, Nesting",19
+2024-01-19 0:00:00,"Tas, Sepatu",4
+2024-01-19 0:00:00,"Tenda, Tas",4
+2024-01-19 0:00:00,Gas Rent,1
+2024-01-23 0:00:00,Tarrebi 60L,1
+2024-01-25 0:00:00,Tas Consina Tarrebi 60L Include CB,1
+2024-01-26 0:00:00,"Matras, Sarung Tangan, SB, Tas",4
+2024-01-26 0:00:00,"Tas, Tenda, Kompor, Nesting, Lampu, Matras",12
+2024-01-26 0:00:00,"Matras, Sepatu",3
+2024-01-27 0:00:00,"Tenda, Matras, Gas Rent, Flysheet, Kursi, Lampu, Nesting, Meja",19
+2024-01-27 0:00:00,"Tenda, Gelas",2
+2024-01-28 0:00:00,"Kain Jaring Mesh, Resleting Tenda",24
+2024-01-29 0:00:00,"Tenda, Nesting, Tempat Telur, Flysheet, Lampu, Pasak, Tali, SB, Gas Rent, Kompor",20
+2024-01-29 0:00:00,Gas Rent,1
+2024-01-31 0:00:00,"Kompor Besar, Gas Rent",2
+2024-01-31 0:00:00,Gas Rent,1
+2024-01-31 0:00:00,"Gas Rent, Kompor Besar",2
+2024-02-03 0:00:00,"Tenda, Nesting, Gas, Matras",5
+2024-02-03 0:00:00,"Nesting, Kompor, Gas, Gelas",5
+2024-02-03 0:00:00,"Tenda, Matras, Flysheet, Lampu, SB, Meja, Kursi",19
+2024-02-04 0:00:00,"SB, Matras",2
+2024-02-06 0:00:00,"Tenda, SB",2
+2024-02-07 0:00:00,Sepatu,1
+2024-02-08 0:00:00,"Trekking Pole, Sepatu",2
+2024-02-09 0:00:00,"Tas, Headlamp, SB, Matras, Trekking Pole, Tenda, Flysheet, Lampu, Kompor, Plastik",19
+2024-02-09 0:00:00,"Kompor, Gas",2
+2024-02-09 0:00:00,"Tas, Jaket, Trekking Pole, Sepatu",4
+2024-02-10 0:00:00,"Tenda, Matras",7
+2024-02-10 0:00:00,Kompor,1
+2024-02-10 0:00:00,Kompor,1
+2024-02-10 0:00:00,"Tenda, Tas, Flysheet, Matras",13
+2024-02-16 0:00:00,"Tenda, Lampu",2
+2024-02-16 0:00:00,"Kompor, Gas",2
+2024-02-17 0:00:00,Tenda,2
+2024-02-17 0:00:00,"Tenda, Matras, Kompor, Gas",4
+2024-02-17 0:00:00,"SB, Kursi",8
+2024-02-21 0:00:00,Gas,2
+2024-02-21 0:00:00,Sepatu,2
+2024-02-22 0:00:00,Tenda,1
+2024-02-22 0:00:00,"SB, Matras, Nesting",3
+2024-02-22 0:00:00,"Nesting, Matras",2
+2024-02-22 0:00:00,"Tas, Nesting",2
+2024-02-23 0:00:00,"Sepatu, Sarung Tangan",3
+2024-02-24 0:00:00,"Tas, Sepatu, Gas, Senter, Headlamp, Matras, Trekking Pole",9
+2024-02-24 0:00:00,Trekking Pole,1
+2024-02-29 0:00:00,Gantungan Tembok,10
+2024-03-02 0:00:00,"Trekking Pole, Sarung Tangan, Gas",7
+2024-03-02 0:00:00,"Tenda, Pasak, Tali, Arang Briket, Tas, Kursi, Gelas, Grill Box, Nesting",10
+2024-03-02 0:00:00,"Tenda, Tas, SB, Matras, Headlamp, Trekking Pole, Lampu, Sepatu",29
+2024-03-02 0:00:00,SB,1
+2024-03-08 0:00:00,"Tenda, Trekking Pole, Headlamp, Matras, Nesting, SB",7
+2024-03-08 0:00:00,"Tenda, Gas, Lampu, Flysheet, Pasak",12
+2024-03-09 0:00:00,"Tenda, Flysheet, Meja, Lampu",5
+2024-03-16 0:00:00,Gas Rent,1
+2024-03-19 0:00:00,"Tenda, Matras, Nesting, Gas, Paket Grill, Kursi",10
+2024-04-01 0:00:00,Gantungan Tembok,10
+2024-04-12 0:00:00,Tenda,1
+2024-04-12 0:00:00,"Paket Gril, Gas",3
+2024-04-12 0:00:00,Tenda,2
+2024-04-12 0:00:00,"Tenda, Matras",5
+2024-04-13 0:00:00,Gas,1
+2024-04-13 0:00:00,Tenda,3
+2024-04-13 0:00:00,"Tenda, Matras, Tas, Flysheet, Gas, SB",7
+2024-04-13 0:00:00,"Tenda, Nesting, Kompor, Gas",4
+2024-04-13 0:00:00,"Tenda, Tas, Kompor, Nesting, Matras, Kursi, Peralatan Makan, Lampu, Gelas, Gas, Penahan Angin",14
+2024-04-14 0:00:00,"Tenda, Matras, Gas, Lampu",6
+2024-04-16 0:00:00,Sleeping Bag,1
+2024-04-16 0:00:00,"Sepatu, SB, Gelas, Lampu, Nesting, Trekking Pole, Sarung Tangan, Tenda, Kompor",15
+2024-04-16 0:00:00,"Tenda, Gas",4
+2024-04-17 0:00:00,Gas Refill,3
+2024-04-17 0:00:00,"Kursi, Meja",3
+2024-04-17 0:00:00,"Kompor, Nesting, Matras, Headlamp, Trekking Pole, Cover Bag",6
+2024-04-17 0:00:00,Trekking Pole,2
+2024-04-18 0:00:00,"Tenda, Nesting",3
+2024-04-18 0:00:00,Pasak,1
+2024-04-19 0:00:00,Pasak Patok Besi,20
+2024-04-19 0:00:00,"Matras, Gas",3
+2024-04-19 0:00:00,Trekking Pole,2
+2024-04-20 0:00:00,"Tenda, Matras, Gas",11
+2024-04-20 0:00:00,Tenda,2
+2024-04-20 0:00:00,"Tenda, Kompor, Nesting, Lampu, Kursi",7
+2024-04-20 0:00:00,"Tenda, Tas, Matras, SB, Lampu, Gas, Penahan Angin, Tali, Matras",10
+2024-04-20 0:00:00,Paket Grill,1
+2024-04-20 0:00:00,"Tenda, Matras",5
+2024-04-20 0:00:00,"Tenda, Tas, SB, Kompor, Nesting, Matras, Lampu, Kursi, Meja",12
+2024-04-20 0:00:00,"Tenda, Nesting",3
+2024-04-20 0:00:00,"Tenda, Nesting, Kompor",4
+2024-04-20 0:00:00,"Tenda, Kompor, Lampu, Kursi, Meja, Gas",7
+2024-04-20 0:00:00,"Kursi, Meja",3
+2024-04-21 0:00:00,"Kompor Besar, Gas",2
+2024-04-21 0:00:00,"Gas, Penahan Angin",2
+2024-04-21 0:00:00,Pasak,1
+2024-04-21 0:00:00,Pasak,2
+2024-04-21 0:00:00,"Kompor, Nesting, Matras, Headlamp, Trekking Pole, Cover Bag",6
+2024-04-22 0:00:00,"Trekking Pole, Headlamp",3
+2024-04-22 0:00:00,"Tenda, Kompor, Nesting, Gas Rent, Matras, Headlamp, Lampu, Penahan Angin",10
+2024-04-22 0:00:00,"Tenda, Sepatu, Flysheet, Manset",5
+2024-04-23 0:00:00,Tenda,1
+2024-04-25 0:00:00,Pasak,2
+2024-04-25 0:00:00,Pasak,2
+2024-04-25 0:00:00,Pasak,2
+2024-04-25 0:00:00,Pasak,2
+2024-04-26 0:00:00,Alat Tusuk Sate Besi,16
+2024-04-26 0:00:00,"Tenda, Matras, Tas, Nesting, Flysheet",7
+2024-04-27 0:00:00,Kompor,1
+2024-04-27 0:00:00,Flysheet,1
+2024-04-27 0:00:00,"Tenda, Matras",14
+2024-04-30 0:00:00,"Tenda, Kursi, Nesting, Kompor, Gas",7
+2024-04-30 0:00:00,"Sepatu, Trekking Pole, Flysheet",3
+2024-05-31 0:00:00,"Headlamp, TP",2
+2024-05-31 0:00:00,"Tenda, TP, Kompor, Headlamp, Sepatu, Flysheet, SB",7
+2024-05-29 0:00:00,"Tenda, Matras, Kompor, Gas Rent, Trash Bag",5
+2024-05-27 0:00:00,"Tas 55L + CB, Matras",3
+2024-05-26 0:00:00,"Tenda, Nesting, Kompor, Gas Rent, Headlamp",5
+2024-05-26 0:00:00,"Tenda, Kompor, Nesting, Fly Sheet, Lampu Tenda, TP",6
+2024-05-25 0:00:00,"Sepatu, TP, Matras",3
+2024-05-25 0:00:00,Headlamp,1
+2024-05-25 0:00:00,TP,1
+2024-05-25 0:00:00,"PB, Lampu Tenda",2
+2024-05-25 0:00:00,Gas Refill,1
+2024-05-25 0:00:00,"Tenda, Kompor, Nesting, Lampu Tenda, Headlamp, Gas Rent, Matras",7
+2024-05-25 0:00:00,"Tenda, Kompor, Gas Rent",3
+2024-05-25 0:00:00,"Tenda, Nesting, Kompor, Gas Rent",4
+2024-05-24 0:00:00,"Kursi Lipat B, Meja Lipat B, Fly sheet",3
+2024-05-24 0:00:00,SB,1
+2024-05-23 0:00:00,"Tenda K4, Gas Rent, Tenda K6",3
+2024-05-23 0:00:00,Nesting,1
+2024-05-23 0:00:00,"Headlamp, Gas Refill",2
+2024-05-23 0:00:00,"Nesting, Gas Refill, Gas Rent, Headlamp",4
+2024-05-22 0:00:00,"TP, Headlamp",2
+2024-05-23 0:00:00,"Tenda, Tas 55L + CB, Matras Spoon, Kursi Outdoor, SB, Fly Sheet, Matras Foil, Kompor, Nesting, Lampu Tenda",10
+2024-05-22 0:00:00,"Senter SWAT, Headlamp, TP, Sepatu 39, Sepatu 41",5
+2024-05-18 0:00:00,Sepatu 43,1
+2024-05-18 0:00:00,Sepatu 41,1
+2024-05-18 0:00:00,"Tenda, Lampu Tenda, Headlamp, Matras, Meja Lipat",5
+2024-05-18 0:00:00,"Tenda, Gas Refill, Gas (Beli)",3
+2024-05-18 0:00:00,"TP, Gas Refill, Gas (Beli)",3
+2024-05-10 0:00:00,Gas Refill,1
+2024-05-15 0:00:00,Pasak (12),1
+2024-05-15 0:00:00,"Tenda, CB",1
+2024-05-11 0:00:00,"Fly Sheet, Headlamp",2
+2024-05-11 0:00:00,"Tenda, Tas",2
+2024-05-10 0:00:00,"Tenda K6, Tas 45L + CB, Tas 55L + CB, Kompor, Matras, Nesting, Penahan Angin",7
+2024-05-10 0:00:00,"Tenda, SB, Headlamp, CB, Matras, Gas Rent",6
+2024-05-10 0:00:00,"Kompor, Gas Rent",2
+2024-05-09 0:00:00,Gas Rent,1
+2024-05-09 0:00:00,"Tenda, SB, Kompor, Nesting, Headlamp, Gas Rent",6
+2024-05-08 0:00:00,"Tenda, TP, Lampu Tenda, CB, Headlamp, Nesting, Matras, SB",8
+2024-05-10 0:00:00,"Tas + CB, SB",2
+2024-05-08 0:00:00,"Tas, Senter",2
+2024-05-08 0:00:00,"Kompor, Gas Rent, Lampu Tenda",3
+2024-05-07 0:00:00,"Kursi Outdoor K, Meja Outdoor K, Tripod HP",3
+2024-05-05 0:00:00,"Tenda K4, Kompor, Kursi K, Meja B, Senter, Lampu Tenda, Nesting",7
+2024-05-05 0:00:00,Tenda Pramuka,1
+2024-05-04 0:00:00,Tenda K4,1
+2024-05-04 0:00:00,"Tenda K4, Tas 45L, TP, Fly Sheet, SB",5
+2024-05-04 0:00:00,"Tenda K4, Matras, SB, TP",4
+2024-05-02 0:00:00,"Sepatu 39, Septu 41, TP",3
+2024-05-01 0:00:00,Sepatu 41,1
+2024-05-01 0:00:00,"Trash Bag K, Trash Bag B",2
+2024-06-29 0:00:00,"Headlamp, Senter, Sepatu",3
+2024-06-29 0:00:00,"Tenda, Matras, Lampu Tenda",3
+2024-06-29 0:00:00,"Meja Outdoor K, Kursi Outdoor B, Gas Rent",3
+2024-06-28 0:00:00,TP,1
+2024-06-28 0:00:00,Kompor,1
+2024-06-28 0:00:00,"Tas 55L + CB, SB, TP, Sepatu, Jacket, Flysheet, Tenda",7
+2024-06-28 0:00:00,"TP, Tenda, SB, Nesting, Kompor, Sepatu",6
+2024-06-26 0:00:00,"Nesting, Kompor, Lampu tenda, Gas Rent",4
+2024-06-25 0:00:00,"SB, Tenda, Nesting, Lampu Tenda, Headlamp",5
+2024-06-25 0:00:00,"Tas, Tenda, Nesting, Sepatu, SB, TP",6
+2024-06-24 0:00:00,"Tas, Tenda, TP, Matras, Emergency Blanket, SB",6
+2024-06-23 0:00:00,"Tenda, Nesting, TP, Matras, Headlamp, Sarung Tangan, SB, CB",8
+2024-06-23 0:00:00,Tenda,1
+2024-06-26 0:00:00,Sarung Tangan,1
+2024-06-23 0:00:00,SB,1
+2024-06-26 0:00:00,Tenda,1
+2024-06-25 0:00:00,"Headlamp, Matras, Sepatu, Tas + CB, TP, Sarung Tangan",6
+2024-06-21 0:00:00,Paket Grill,1
+2024-06-21 0:00:00,Lampu Tenda,1
+2024-06-21 0:00:00,Tenda Pramuka,1
+2024-06-25 0:00:00,"SB, Tenda, Nesting, Headlamp, Lampu Tenda",5
+2024-06-15 0:00:00,"Kompor, Nesting",2
+2024-06-15 0:00:00,Tenda Kap 4,1
+2024-06-14 0:00:00,"Hydropack, TP",2
+2024-06-13 0:00:00,TP,1
+2024-06-12 0:00:00,Tenda Pramuka + Pasak,1
+2024-06-12 0:00:00,Tenda Pramuka + Pasak,1
+2024-06-12 0:00:00,Tenda Pramuka + Pasak,1
+2024-06-12 0:00:00,Tenda Pramuka + Pasak,1
+2024-06-12 0:00:00,Tenda Pramuka + Pasak,1
+2024-06-11 0:00:00,"Tenda K6, Tenda K4, Matras, Kompor B, Kompor K, Lampu Tenda",6
+2024-06-10 0:00:00,"Tenda, Lampu Tenda, Nesting, Kompor, Gas Rent, Fly Sheet, Matras",7
+2024-06-09 0:00:00,Kompor B,1
+2024-06-09 0:00:00,Tripod HP,1
+2024-06-08 0:00:00,Gas Tukar,1
+2024-06-08 0:00:00,"Kursi Outdoor B, Matras",2
+2024-06-08 0:00:00,Tenda K6,1
+2024-06-08 0:00:00,"Tenda K6, Tas 55L + CB, Paket Grill, Matras, Nesting, Gas Rent",6
+2024-06-07 0:00:00,Tenda Pramuka,1
+2024-06-07 0:00:00,"Tas 55L + CB, SB, Headlamp, Sepatu 41, Sepatu 39",5
+2024-06-07 0:00:00,Tenda Pramuka,1
+2024-06-05 0:00:00,"Tenda K6, Tenda K4",2
+2024-06-02 0:00:00,"Tenda K4, TP, Nesting, Energent",4
+2024-06-02 0:00:00,"Tenda K4, SB, Matras, Nesting, Lampu Tenda, Refill Gas, Tas + CB",7
+2024-06-01 0:00:00,"Tenda K4, Gas Refill",2
+2024-07-28 0:00:00,"Gelas Set, Sarung Tangan, Lampu Tenda",3
+2024-07-28 0:00:00,Refill Gas,1
+2024-07-28 0:00:00,"Tenda K6, Tenda K4, Kompor, Gas Rent",4
+2024-07-28 0:00:00,"TP, Headlamp",2
+2024-07-28 0:00:00,SB,1
+2024-07-27 0:00:00,"Tenda, Fly Sheet, Pasak, Tali, Nesting, Kompor, Gas Rent, Lampu Tenda, Sepatu, Tas",10
+2024-07-27 0:00:00,"Sarung Tangan, Headlamp, SB, Matras, TP",5
+2024-07-27 0:00:00,"SB, Tas 55L, Tenda, Matras, Headlamp, Lampu Tenda, Sepatu, Nesting, Trash Bag, Gas Rent",10
+2024-07-27 0:00:00,Kompor Portable,1
+2024-07-27 0:00:00,Tas 55L,1
+2024-07-27 0:00:00,Tempat Telur,1
+2024-07-27 0:00:00,"Tenda, SB, Meja B, Kursi B, Gas Rent",5
+2024-07-26 0:00:00,TP,1
+2024-07-26 0:00:00,"Sepatu, Headlamp, TP",3
+2024-07-24 0:00:00,"Tenda, Gas Rent, Lampu Tenda",3
+2024-07-22 0:00:00,Sepatu,1
+2024-07-20 0:00:00,Nesting,1
+2024-07-20 0:00:00,Tenda K4,1
+2024-07-20 0:00:00,"SB, Kompor, Matras, Gas Rent",4
+2024-07-20 0:00:00,Tenda K4,1
+2024-07-20 0:00:00,"Hydropack, TP, Jacket",3
+2024-07-20 0:00:00,"Tenda K4, Kursi B, Matras, Meja B, Kompor B, Kompor K, lampu Tenda, Nesting, Tempat Telur, Gas Rent",10
+2024-07-19 0:00:00,"Fly Sheet, Pasak, Matras",3
+2024-07-19 0:00:00,"Headlamp, TP",2
+2024-07-18 0:00:00,"Kompor, Gas Rent, Matras",3
+2025-07-15 0:00:00,"Tenda, Matras, SB, Nesting, Kompor, Lampu Tenda, Gas Rent",7
+2025-07-15 0:00:00,"Tenda K4, Kursi K",2
+2025-07-14 0:00:00,"Tenda K4, Kursi Outdoor K",2
+2025-07-14 0:00:00,"Sepatu, TP",2
+2025-07-13 0:00:00,"Tenda, SB, Nesting",3
+2025-07-13 0:00:00,"Tenda, Matras, Kompor, SB, Nesting, Sepatu, TP",7
+2025-07-13 0:00:00,"Tenda K6, Tenda K4, Matras",3
+2025-07-13 0:00:00,"Tenda, Matras, Kompor, Nesting",4
+2025-07-13 0:00:00,"Headlamp, TP",2
+2025-07-13 0:00:00,Tenda K4,1
+2025-07-12 0:00:00,"Sepatu, Headmp, Tas Lipat",3
+2025-07-11 0:00:00,"Sepatu, TP, Headlamp, Senter",4
+2025-07-10 0:00:00,"Tenda, Matras, SB, Kompor, Nesting, Headlamp, Lampu Tenda, Gas Refill",8
+2025-07-10 0:00:00,Tenda K4,1
+2025-07-09 0:00:00,"Kompor, Jas Hujan, Manset Lengan",3
+2025-07-09 0:00:00,"Tenda, Matras, Matras Foil, Lampu Tenda, Senter, Tempat Telur, Gas Rent, Fly Sheet, Tas, SB",11
+2025-07-09 0:00:00,Penahan Angin,1
+2025-07-08 0:00:00,"Kursi K, Lampu Tenda, Kompor, Gas Rent, TP, Sepatu",6
+2025-07-07 0:00:00,"Kompor, Gas Rent ",2
+2025-07-06 0:00:00,"Tenda K6, Tas 55L + CB, Lampu Tenda, Pasak Pramuka",4
+2025-07-06 0:00:00,"SB, TP, Matras",3
+2025-07-05 0:00:00,"Tenda, SB, Matras, Kompor K, tas, Gas rent, Nesting, Sepatu, TP",9
+2025-07-05 0:00:00,TP,1
+2025-07-05 0:00:00,TP,1
+2025-07-05 0:00:00,"Tenda, Matras",2
+2025-07-03 0:00:00,"Tenda, SB, Matras, Fly Sheet, TP, Lampu Tenda, Gas Refill",7
+2025-07-03 0:00:00,"Tenda, SB, Matras, Kompor, Fly Sheet, Lampu Tenda, Gas Rent",7
+2025-07-02 0:00:00,"Tenda, lampu Tenda, Kursi K",3
+2025-07-02 0:00:00,"Paket Grill, Gas Refill",2
+2025-07-02 0:00:00,"Kakhoiper, TP",2
+2024-07-01 0:00:00,"TP, Headlamp",2
+2024-08-31 0:00:00,"Headlamp, TP, Emergency Blanket",3
+2024-08-31 0:00:00,"Matras, Headlamp, Kompor, Gas Rent, Nesting, Hydropack",6
+2024-08-30 0:00:00,"Tas, Matras",3
+2024-08-30 0:00:00,"Tenda, Matras, Headlamp, Tas, Sepatu, Tempat Telur",5
+2024-08-30 0:00:00,"Tenda, Matras, Tas + CB, Set Gelas, Kompor, Gas Rent, Lampu Tenda, Nesting",9
+2025-08-27 0:00:00,"Tenda, Kompor, Gas Rent",5
+2025-08-24 0:00:00,Tenda Pramuka,2
+2025-08-24 0:00:00,"Senter, Sarung Tangan, Tas + CB, Gas Rent, Sepatu",6
+2025-08-24 0:00:00,"Nesting, Kompor, Tenda, TP, Headlamp, Lampu Tenda, SB, Matras Spoon, Matras Foil, Gelas Set",11
+2025-08-23 0:00:00,"SB, Manset, Trash Bag",4
+2025-08-23 0:00:00,Tenda K4,1
+2025-08-23 0:00:00,"Pasak, Gas Rent",2
+2025-08-23 0:00:00,"Sepatu, Tas + CB, SB, Headlamp, Matras, CB, TP, Tenda K6, Nesting, Lampu Tenda",11
+2025-08-23 0:00:00,"Tenda, Gas Rent",2
+2025-08-22 0:00:00,"Sepatu, Headlamp, Sarung, TP",5
+2025-08-21 0:00:00,"Tas, SB, Matras, Headlamp, TP, Sepatu, Nesting",6
+2025-08-21 0:00:00,"Tas + CB, Senter, Headlamp, Lampu Tenda, TP",7
+2025-08-21 0:00:00,TP,7
+2025-08-17 0:00:00,"TP, Hydropack, Sepatu",6
+2025-08-17 0:00:00,"Tenda, Lampu Tenda, Kompor, Gas Rent, Nesting, Matras",7
+2025-08-16 0:00:00,"Tenda, TP",7
+2025-08-15 0:00:00,"Tas, Matras, Nesting, Kompor, Sb, Lampu Tenda, Sarung Tangan",8
+2025-08-15 0:00:00,"Tenda, Headlamp, Nesting, Matras, SB",9
+2025-08-13 0:00:00,"TP, Headlamp, Emergency Blanket",3
+2025-08-13 0:00:00,"TP, Hydropack ",4
+2025-08-12 0:00:00,Tenda K4,5
+2025-08-10 0:00:00,"Headlamp, Tp ",6
+2025-08-09 0:00:00,"Tenda, Nesting, Fly Sheet,  Pasak, Tali",5
+2025-08-07 0:00:00,"TP, Headlamp, Sepatu, Emergency Blanket, Hydropack",4
+2025-08-06 0:00:00,"Tenda, Nesting, TP, Kompor, CB",4
+2025-08-06 0:00:00,"Tenda, Tas + CB, Sepatu, SB, Matras, Kompor, Gas Rent, Nesting, TP, Lampu Tenda",12
+2025-08-03 0:00:00,"Tenda, Paket Grill, Trash Bag, Pasak, Gas Rent",7
+2025-08-02 0:00:00,"SB, Tas + CB, TP, Fly Sheet, Sarung Tangan, Tenda, Sepatu, Gas Rent, Kompor",14
+2024-09-29 0:00:00,Tripod HP,1
+2024-09-29 0:00:00,"Tas 45L + CB, SB, Matras Foil, Fly Sheet, Tempat Telur, TP",6
+2024-09-29 0:00:00,"Tas 55L + CB, CB",6
+2025-09-28 0:00:00,"SB, headlamp, TP, Headlamp",5
+2025-09-28 0:00:00,"Kursi Outdoor B, Gas Rent, Kompor",3
+2025-09-27 0:00:00,Kompor,4
+2000-09-26 0:00:00,"Tenda, Matras, Gas Rent",5
+2025-09-21 0:00:00,"Sepatu 39, Sepatu 43, TP",4
+2025-09-20 0:00:00,"Tenda, Lampu Tenda",3
+2025-09-19 0:00:00,"Tas + CB, TP, Matras, SB",4
+2025-09-19 0:00:00,"TP, kafhooper",2
+2025-09-18 0:00:00,"Tenda, Headlamp, Manset",4
+2025-09-15 0:00:00,"Kompor B, Tenda K4",4
+2025-09-14 0:00:00,Tenda K4,2
+2024-09-14 0:00:00,"Tas, Headlamp, Tenda, Matras, Sepatu, SB, lampu Tenda",4
+2023-09-14 0:00:00,"SB, Tas, Matras, Sepatu, TP",6
+2022-09-14 0:00:00,"TP, Headlamp",4
+2021-09-14 0:00:00,"TP, Hydropack, Emergency Blanket",5
+2020-09-14 0:00:00,"Tenda, Gas Refill",2
+2019-09-14 0:00:00,"Kompor, Gas Rent",2
+2018-09-14 0:00:00,"Tenda, Lampu Tenda, Kompor, Nesting, Gas Rent",6
+2017-09-14 0:00:00,"Tenda K4, Lampu Tenda, Gas Rent, Fly Sheet, Kursi K",14
+2016-09-14 0:00:00,"Tenda K6, Tenda K4",3
+2025-09-13 0:00:00,"TP, Emergency Blanket",3
+2025-09-13 0:00:00,Headlamp,2
+2025-09-13 0:00:00,"TP, Leaf Hopper",2
+2025-09-12 0:00:00,"Tas + CB, Sepatu",2
+2025-09-11 0:00:00,"Tenda K4, Headlamp, Matras",4
+2025-09-07 0:00:00,"Tenda K6, Tenda K4",4
+2025-09-07 0:00:00,"TP, Hydropack ",4
+2025-09-07 0:00:00,Powerbank,1
+2025-09-06 0:00:00,"Tas, Tenda, Gas Rent, Kompor, Penadah Angin, Fly Sheet, Tali",9
+2025-09-06 0:00:00,"Tas, Tenda, Matras, Nesting, Lampu Tenda, SB",8
+2025-09-06 0:00:00,"Tas, SB, Matras Foil, Sepatu",5
+2025-09-06 0:00:00,SB,5
+2025-09-06 0:00:00,TP,3
+2025-09-06 0:00:00,"SB, Headlamp, TP ",5
+2025-09-06 0:00:00,TP,4
+2025-09-06 0:00:00,"TP, Tas Kecil Lipat, Headlamp",5
+2025-09-04 0:00:00,"Tenda K4, Tas, Matras, SB, Nesting, Kompor, Gas Rent",7
+2025-09-03 0:00:00,"TP, Sepatu, Senter",7
+2025-09-02 0:00:00,TP,4
+2024-09-01 0:00:00,"Tenda K4, Lampu Tenda, Fly Sheet",7
+2024-11-30 0:00:00,"Tenda K4, Kompor, Nesting, Fly Sheet",6
+2024-11-30 0:00:00,"TP, Hydropack",6
+2025-11-29 0:00:00,Gas Rent,5
+2025-11-27 0:00:00,"Tenda K4, Kompor B",4
+2025-11-27 0:00:00,"Tenda K4, Kompor B",4
+2024-11-26 0:00:00,"Tas + CB, TP",4
+2024-11-08 0:00:00,"TP, Headlamp, Sarung Tangan",4
+2024-11-04 0:00:00,"Tenda K4, SB, Matras, Headlamp, Lampu Tenda",4
+2024-12-31 0:00:00,"Tenda K4, Matras",4
+2024-12-31 0:00:00,"Tenda K4, Matras, SB",3
+2024-12-31 0:00:00,"Kompor K, Gas Rent",6
+2024-12-31 0:00:00,"Tenda K4, Nesting, Kompor, Gas Rent",6
+2024-12-31 0:00:00,Gas Rent,8
+2024-12-31 0:00:00,Kompor Besar,1
+2024-12-31 0:00:00,"Kompor K, Nesting, Tenda K4, Matras",3
+2024-12-31 0:00:00,"Dril? Grill?, Kompor",2
+2024-12-31 0:00:00,TP,5
+2024-12-31 0:00:00,"Kompor B, Gas Rent",2
+2024-12-31 0:00:00,"Kompor B, Gas Rent, Grill",3
+2024-12-29 0:00:00,Gas Rent,1
+2024-12-29 0:00:00,Powerbank,1
+2024-12-29 0:00:00,"Tenda K6, Tenda K4, Matras Foil, Fly Sheet, Gas Rent, Tas 55L + CB, Lampu Tenda, Penahan Angin, Tempat Telur",14
+2024-12-29 0:00:00,"SB, Tali Fly Sheet",4
+2024-12-28 0:00:00,"Matras, SB, TP",4
+2025-12-27 0:00:00,"Head Lamp, TP, Hydropack",3
+2025-12-27 0:00:00,"Matras Foil B, Lampu Tenda, Gas Rent",6
+2025-12-27 0:00:00,"Headlamp, SB",4
+2025-12-26 0:00:00,SB,7
+2025-12-25 0:00:00,"Kompor K, Gas Rent",3
+2025-12-24 0:00:00,"Tenda K4, Matras Foil, Fly Sheet, Lampu Tenda, Kompor, Nesting, Gas Rent",13
+2025-12-24 0:00:00,"TP, Hydropack",3
+2025-12-24 0:00:00,"Sepatu, Tas, TP, Sarung Tangan, Matras",7
+2025-12-24 0:00:00,"Tas, Kompor, Nesting, Matras, Sepatu, SB, TP",9
+2024-12-23 0:00:00,TP,3
+2025-12-22 0:00:00,"Tenda K4, Kursi Lipat K",2
+2025-12-22 0:00:00,Gas Refill,3
+2025-12-17 0:00:00,"Kompor, Lampu Tenda, CB",5
+2025-12-16 0:00:00,Kompor Besar,3
+2025-12-14 0:00:00,"Tenda K4, Tenda K6, Matras Foil",3
+2025-12-14 0:00:00,TP,2
+2025-12-14 0:00:00,"Tenda K4, Tenda K6, Headlamp, Matras",7
+2025-12-13 0:00:00,"Tenda K4, Matras, Fly Sheet, Nesting, Lampu Tenda, Tempat Telur",7
+2025-12-13 0:00:00,"Nesting, Matras",4
+2025-12-12 0:00:00,Tenda Pramuka,3
+2025-12-12 0:00:00,Nesting,3
+2025-12-12 0:00:00,"Mantol, Gas Rent, Headlamp, Matras",2
+2025-12-11 0:00:00,Tenda K4,2
+2025-12-10 0:00:00,Tenda Pramuka,1
+2025-12-07 0:00:00,"Tenda K4, Tas 45L + CB, SB, Headlamp, Fly Sheet, TP",10
+2025-12-05 0:00:00,"Nesting, Fly Sheet, Emergency Blanket",5
